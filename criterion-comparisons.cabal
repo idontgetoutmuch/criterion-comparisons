@@ -1,11 +1,11 @@
-name:                random-benchmarks
+name:                criterion-comparisons
 version:             0.1.0.0
 synopsis:            Short description
 description:         Please see the README on GitHub at <https://github.com/idontgetoutmuch/criterion-comparisons#readme>
 homepage:            https://github.com/idontgetoutmuch/criterion-comparisons
 license:             BSD3
 license-file:        LICENSE
-author:              Dominic Steinitz Kuleshevich
+author:              Dominic Steinitz
 maintainer:          dominic@steinitz.org
 copyright:           2019 Dominic Steinitz
 category:            Data
